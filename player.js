@@ -50,10 +50,7 @@ const playlist = [
           url: "https://tv-trtarabi.medya.trt.com.tr/master_1080.m3u8",
         },
 
-        {
-          name: "Palastine Today",
-          url: "https://live.paltodaytv.com/paltv/live/chunklist_w1113040464_vo_sfm4s.m3u8",
-        },
+        { name: "Phalastine Today", url: "https://live.paltodaytv.com/paltv/live/chunklist.m3u8" },
 
         {
           name: "Al Hiwar",
