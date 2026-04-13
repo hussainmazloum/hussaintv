@@ -280,7 +280,7 @@ const playlist = [
 
         {
           name: "Mix Hollywood",
-          url: "https://ml-pull-hwc.myco.io/MixTV/hls/MixTV_H264-540p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1",
+          url: "https://ml-pull-hwc.myco.io/MixTV/hls/MixTV_H264-720p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1",
         },
 
         {
