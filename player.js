@@ -17,12 +17,12 @@ const playlist = [
 
         {
           name: "Al jazeera",
-          url: "http://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+          url: "https://live-hls-web-aja.getaj.net/AJA/01.m3u8",
         },
 
         {
           name: "Al jazeera direct",
-          url: "http://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
+          url: "https://live-hls-web-ajm.getaj.net/AJM/04.m3u8",
         },
 
         {
@@ -283,6 +283,10 @@ const playlist = [
           url: "https://ml-pull-hwc.myco.io/MixTV/hls/MixTV_H264-720p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1",
         },
 
+        {
+          name: "MBC Aflam",
+          url: "https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8",
+        },
         {
           name: "Hala London",
           url: "https://halalondon-live.ercdn.net/halalondon/halalondon_1080p.m3u8",
