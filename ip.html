@@ -7,20 +7,24 @@
     <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
   </head>
   <body>
-    
     <div class="bilde">
-      <a href="index.html"><img class="sora" src="logo-tv.png" width="400px" alt="logo"/></a>
+      <a href="index.html"
+        ><img class="sora" src="logo-tv.png" width="400px" alt="logo"
+      /></a>
       <h1>Arabic TV Channels</h1>
       <button class="btnn" onclick="tilbake()">Lukke</button>
     </div>
-
-
 
     <div class="container">
       <div id="channels"></div>
 
       <div id="player">
-       <h2 id="channelName">اختر قناة</h2>
+        
+        <div class="top">
+          <div id="clock"></div>
+          <h2 id="channelName">القناة</h2>
+        </div>
+
         <video
           id="video"
           controls
@@ -29,12 +33,11 @@
           poster="logo-tv.png"
           video.controls="true"
         ></video>
-         <div class="ned">
-      <p>&copy; Mazloum - 2026</p>
-      </div>
+        <div class="ned">
+          <p>&copy; Mazloum - 2026</p>
+        </div>
       </div>
     </div>
-    
 
     <script src="player.js"></script>
   </body>
