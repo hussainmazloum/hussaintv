@@ -155,7 +155,7 @@ const playlist = [
     url: "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
   },
 
-  { name: "MBC action", url: "http://185.9.2.18/chid_378/mono.m3u8" },
+  { name: "MBC action", url: "https://185.9.2.18/chid_378/mono.m3u8" },
 
   {
     name: "MBC Drama egypt",
