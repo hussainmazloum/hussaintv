@@ -155,7 +155,7 @@ const playlist = [
     url: "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
   },
 
-  { name: "MBC action", url: "https://185.9.2.18/chid_378/mono.m3u8" },
+  { name: "MBC action", url: "http://185.9.2.18/chid_378/mono.m3u8" },
 
   {
     name: "MBC Drama egypt",
@@ -471,10 +471,17 @@ const playlist = [
   },
 
   {
+    name: "TV 2",
+    url: "http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeLgZXqA3RCoynpVrVZz0Naw/m3u8",
+  },
+
+  {
     name: "Bein Sport",
     url: "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8",
   },
-];
+  
+  
+]
 
 const channelList = document.getElementById("channels");
 const video = document.getElementById("video");

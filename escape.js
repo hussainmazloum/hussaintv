@@ -5,6 +5,8 @@ let brukerNavn = [
   { brukernavn: "hassan", passord: "1235" },
   { brukernavn: "hadil", passord: "1235" },
   { brukernavn: "abbas", passord: "1235" },
+  { brukernavn: "quran", passord: "1234" },
+
 ];
 
 function loggInn() {
