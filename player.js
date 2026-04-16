@@ -1,4 +1,64 @@
-const playlist = [
+fetch("dato.json")
+  .then((response) => { if (!response.ok) {throw new Error(`HTTP error! status: ${response.status}`);} return response.json(); })
+    
+  .then((jsonData) => { 
+const channelList = document.getElementById("channels");
+const video = document.getElementById("video");
+const channelName = document.getElementById("channelName");
+
+let hls;
+
+function playStream(url, name) {
+  channelName.innerText = `${name}`;
+
+  if (hls) {
+    hls.destroy();
+  }
+
+  if (Hls.isSupported()) {
+    hls = new Hls();
+    hls.loadSource(url);
+    hls.attachMedia(video);
+  } else if (video.canPlayType("application/vnd.apple.mpegurl")) {
+    video.src = url;
+  }
+}
+
+jsonData.forEach((channel) => {
+  const div = document.createElement("div");
+  div.className = "channel";
+  div.innerText = channel.name;
+
+  div.onclick = () => {
+    playStream(channel.url, channel.name);
+  };
+
+  channelList.appendChild(div);
+})});
+
+/* --------------------------------------------------------------*/
+
+function updateClock() {
+  const now = new Date();
+  const display = now.toLocaleTimeString();
+  document.getElementById("clock").textContent = display;
+}
+
+// Update the clock every 1 second
+setInterval(updateClock, 1000);
+
+// Initialize immediately
+updateClock();
+
+function tilbake() {
+  window.location.href = "index.html";
+}
+
+
+
+
+
+/* const playlist = [
   { name: "Almanar", url: "https://edge.fastpublish.me/live/index.m3u8" },
   {
     name: "Al ittihad",
@@ -481,54 +541,7 @@ const playlist = [
   },
   
   
-]
+] */
 
-const channelList = document.getElementById("channels");
-const video = document.getElementById("video");
-const channelName = document.getElementById("channelName");
 
-let hls;
 
-function playStream(url, name) {
-  channelName.innerText = `${name}`;
-
-  if (hls) {
-    hls.destroy();
-  }
-
-  if (Hls.isSupported()) {
-    hls = new Hls();
-    hls.loadSource(url);
-    hls.attachMedia(video);
-  } else if (video.canPlayType("application/vnd.apple.mpegurl")) {
-    video.src = url;
-  }
-}
-
-playlist.forEach((channel) => {
-  const div = document.createElement("div");
-  div.className = "channel";
-  div.innerText = channel.name;
-
-  div.onclick = () => {
-    playStream(channel.url, channel.name);
-  };
-
-  channelList.appendChild(div);
-});
-
-function updateClock() {
-  const now = new Date();
-  const display = now.toLocaleTimeString();
-  document.getElementById("clock").textContent = display;
-}
-
-// Update the clock every 1 second
-setInterval(updateClock, 1000);
-
-// Initialize immediately
-updateClock();
-
-function tilbake() {
-  window.location.href = "index.html";
-}
