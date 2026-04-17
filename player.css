@@ -154,7 +154,7 @@ video {
   font-size: 18px;
 }
 
-@media (max-width: 1800px) {
+@media (max-width: 1024px) {
   .container {
     width: 100%;
     height: 100%;

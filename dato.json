@@ -175,7 +175,7 @@
 
   {
     "name": "OTV",
-    "url": "https://otv.hibridcdn.net/otv/tv_abr/otv/tv_1080p/playlist.m3u8"
+    "url": "https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8"
   },
 
   {
@@ -215,6 +215,11 @@
   {
     "name": "MBC 3",
     "url": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8"
+  },
+
+  {
+    "name": "Rotana kids",
+    "url": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/chunks.m3u8?token=demo"
   },
 
   {
@@ -277,8 +282,6 @@
     "url": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist_w122808259.m3u8"
   },
 
-
-
   {
     "name": "Al Jawadain TV",
     "url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8"
@@ -288,7 +291,6 @@
     "name": "Imam Hussain TV",
     "url": "https://ak.imamhussein.live/imhtv2live/imhtv2.smil/imhtv2publish/imhtv2_480p/chunks.m3u8"
   },
-
 
   {
     "name": "Al Marjaeyat TV",
@@ -305,11 +307,6 @@
     "url": "https://tgn.bozztv.com/trn03/gin-dubaitv/tracks-v1a1/mono.m3u8?nimblesessionid=1556178000&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDI2IDEyOjQxOjIwIFBNJmhhc2hfdmFsdWU9K3lFajlEKzF0SGJENWNQMHBrd2lKdz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTE3"
   },
 
- 
-{
-    "name": "Dubai one",
-    "url": "https://tgn.bozztv.com/gin-36bay4/ga-dubaione/tracks-v1a1/mono.ts.m3u8?nimblesessionid=1556181082&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDI2IDEyOjQ0OjIzIFBNJmhhc2hfdmFsdWU9Q2svYjRlMkxZNUU1WTZ4ZkQ0eXA1dz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTIy"
-  },
 
   {
     "name": "Phalastine Today",
