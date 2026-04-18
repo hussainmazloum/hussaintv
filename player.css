@@ -118,9 +118,9 @@ h1 {
   align-items: center;
   width: 80%;
   color: rgb(255, 255, 255);
-
-  /*      border: 1px solid red;
- */
+  height: 50px;;
+/*      border: 1px solid red;
+ */ 
 }
 
 #clock {
@@ -128,16 +128,18 @@ h1 {
 }
 video {
   width: 80%;
-  max-height: 90vh;
+  max-height: 80vh;
   background: black;
   box-shadow:
     0 4px 8px 0 rgba(0, 0, 0, 0.5),
     0 6px 20px 0 rgba(0, 0, 0, 0.79);
+
+    border-bottom: 6px solid red;
 }
 
 #channelName {
   font-size: 22px;
-  background-color: rgb(184, 5, 5);
+  background-color: rgba(184, 5, 5, 0.575);
   padding: 5px 18px;
   color: rgb(255, 255, 255);
   border-bottom: 5px solid white;
