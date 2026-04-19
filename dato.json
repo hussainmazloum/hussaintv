@@ -187,6 +187,16 @@
     "name": "RED tv",
     "url": "https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8"
   },
+
+  {
+    "name": "LBC",
+    "url": "https://tgn.bozztv.com/gin-36bay3/ga-lbctv/tracks-v1a1/mono.ts.m3u8?nimblesessionid=1560758955&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDExOjU4OjUyIEFNJmhhc2hfdmFsdWU9TjVJOUFVM2xQNnZyRzRLczhsb1ladz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTE5"
+  },
+
+  {
+    "name": "Abu Dabi",
+    "url": "https://tgn.bozztv.com/gin-36bay4/gin-abudhabitv/tracks-v1a1/mono.ts.m3u8?nimblesessionid=1560765584&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDEyOjA0OjM3IFBNJmhhc2hfdmFsdWU9c0d5NGwvdFk2TlR3c2wzRVRTSjV0QT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI1"
+  },
   {
     "name": "Al arabi 2",
     "url": "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/alaraby2publish/alaraby2_source/chunks.m3u8"
@@ -303,10 +313,9 @@
   },
 
   {
-    "name": "Dubai TV",
-    "url": "https://tgn.bozztv.com/trn03/gin-dubaitv/tracks-v1a1/mono.m3u8?nimblesessionid=1556178000&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDI2IDEyOjQxOjIwIFBNJmhhc2hfdmFsdWU9K3lFajlEKzF0SGJENWNQMHBrd2lKdz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTE3"
+    "name": "UTV Iraq",
+    "url": "https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8"
   },
-
 
   {
     "name": "Phalastine Today",
@@ -318,6 +327,16 @@
   {
     "name": "Mix Hollywood",
     "url": "https://ml-pull-hwc.myco.io/MixTV/hls/MixTV_H264-720p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1"
+  },
+
+  {
+    "name": "Mix Bil arabi",
+    "url": "https://ml-pull-hwc.myco.io/MixBelAraby/hls/MixBelAraby_H264-720p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1"
+  },
+
+  {
+    "name": "Mix One",
+    "url": "https://ml-pull-hwc.myco.io/MixONE/hls/MixONE_H264-720p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1"
   },
 
   {
@@ -511,6 +530,11 @@
   {
     "name": "Bein 2 sport",
     "url": "http://lunar.pm:8080/live/LynnB23/34yfqEW7mHvY/132377.m3u8"
+  },
+
+  {
+    "name": "Al Kass 5 sport",
+    "url": "http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919472&extension=ts"
   },
 
   {
