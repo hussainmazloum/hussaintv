@@ -1,10 +1,12 @@
 fetch("dato.json")
+
   .then((response) => { if (!response.ok) {throw new Error(`HTTP error! status: ${response.status}`);} return response.json(); })
     
   .then((jsonData) => { 
 const channelList = document.getElementById("channels");
 const video = document.getElementById("video");
 const channelName = document.getElementById("channelName");
+
 
 let hls;
 
@@ -16,13 +18,19 @@ function playStream(url, name) {
   }
 
   if (Hls.isSupported()) {
-    hls = new Hls();
+    hls = new Hls({
+      enableWorker: true,
+      lowLatencyMode: true
+    });
+
+    
     hls.loadSource(url);
     hls.attachMedia(video);
   } else if (video.canPlayType("application/vnd.apple.mpegurl")) {
     video.src = url;
   }
 }
+
 
 jsonData.forEach((channel) => {
   const div = document.createElement("div");
@@ -34,7 +42,14 @@ jsonData.forEach((channel) => {
   };
 
   channelList.appendChild(div);
+  
+  
+  
 })});
+
+
+
+
 
 /* --------------------------------------------------------------*/
 
@@ -53,6 +68,9 @@ updateClock();
 function tilbake() {
   window.location.href = "index.html";
 }
+
+
+
 
 
 

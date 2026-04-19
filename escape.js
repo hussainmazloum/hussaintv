@@ -15,13 +15,15 @@ function loggInn() {
 
   let message = document.getElementById("bake");
 
+  let popup = document.getElementById("risala");
+
   for (let i = 0; i < brukerNavn.length; i++) {
     // sjekk om brukerinndata samsvarer med brukernavn og passord til en gjeldende indeks i objPeople-arrayet
     if (
       brukernavn == brukerNavn[i].brukernavn &&
       passord == brukerNavn[i].passord
     ) {
-      alert(brukernavn + " er logget inn!!!");
+      /* alert(brukernavn + " er logget inn!!!"); */
       // stopp funksjonen hvis dette viser seg å være sant
       window.location.href = "ip.html";
       return;
