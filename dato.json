@@ -175,11 +175,6 @@
   },
 
   {
-    "name": "Al Jadeed",
-    "url": "https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/y5BGlX_-yKqeRVQhbrjTnGarV4-LDwbHW-cY079gSDD1nLIH4aumVtLVbpxOSmNw4iO1iUGu6mhQzklX0Qu4Otq2sDK2fk6yRJe2qHku7EjvjNybsGMZLMfXdZfqv1FNRKcfPk-hBH4fQFSwvSGBM-1qzVx9rMt9q6ivdrvouQYawaY5mtVXJBiLhZx_uyqOJwcb0-4r0E4iGZ5swMATaA/hls/index.m3u8"
-  },
-
-  {
     "name": "MTV",
     "url": "https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8"
   },
@@ -190,20 +185,10 @@
   },
 
   {
-    "name": "LBC",
-    "url": "https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/GTAlVC-yKiAkHlYd5rjXgYMKwwz5njE5w3iuH7QWgk7l-OwjYeqnWgF1FBIUxNhmnMCiq3vdvhGvjuPObHKTHcJqjTddk-mjvTXZ0KN4r60NizJnsUEUr6RDcvZu7x4HmxzaiO7F1yWtzBLPFHvLW6ZfugD5P9lUyHqGxC4gU_hzvlGMZNHlyaHpzIc5zc1tsOUZaQpzJSidTvVAqdcjlg/hls/index.m3u8"
-  },
-
-  {
     "name": "Al arabi 2",
     "url": "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/alaraby2publish/alaraby2_source/chunks.m3u8"
   },
 
-  {
-    "name": "Jeem Kids",
-    "url": "https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/-E_Eca5mVIn0yzyBASN1RSeNRkbD87_F51MHXLd7i4MvKlvM3X2TUFk_pL8X5KYHLrvjc2daDv77Noo-qrmeemNRHIjTaHsBxs2Q86-G-fxGtrFvKV1jdGFVT0xzMRITavdMQuSAK8JT1vN5-dC5kPUWRP8PMWdQfloDHA-Z3Os6D6-r57hEI-XLMrKo8-YTyi09QbC2Q1gfJRuoud12_g/hls/index.m3u8"
-  },
-  
   {
     "name": "Roya kids",
     "url": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8"
@@ -230,16 +215,6 @@
   },
 
   {
-    "name": "Rotana kids",
-    "url": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/chunks.m3u8?token=demo"
-  },
-
-  {
-    "name": "Cartoon Network",
-    "url": "https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/FHvlwODhxVdIZEus9t1GGSbpiC0ns2uf3W0KKsSWOP7uAGFVyjkAyTY5ux_hb6NEe1t597Xz0za5228RbwsuA-im7TYz6L1XrT2v_3WjpciV9lkWV3Cnutv1krPVaTmJ8cCbYI8hgw6b6qn6sLIxqh4GW4fPMVeXkOBgbBxdvaPZos8e58kKR13BmnWLGD8mIRKk2qNEq2qbrUVzukPPzA/hls/index.m3u8"
-  },
-
-  {
     "name": "KidsToon Goggle",
     "url": "https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8"
   },
@@ -255,11 +230,6 @@
   },
 
   {
-    "name": "Marah kids",
-    "url": "https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/Sh9QSNeLO3HAVw-beaUObBcBaAhtwLc1R92Y0z5ihNmelrIRTnaF5nbjrBhfB5SGz4ITt2Gy_Q2SLEUm-For24oisweLpmOwilXQyCjO5Ze_8MQFkCRXMaQYv6uWR4gkVMV9c7LbfkmW8mKWltPjs3PGSsQADFDoNTpnjfMw3c-VtZrj1ezcZFU7RmwE7yxakiPIWXmBk-98c9fXF2E5pA/hls/index.m3u8"
-  },
-
-  {
     "name": "Cartoon Calssic",
     "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8"
   },
@@ -270,7 +240,7 @@
   },
 
   {
-    "name": "Quran Al Bah rain",
+    "name": "Quran Al Bahrain",
     "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w1937581584_b2487000.m3u8"
   },
 
@@ -290,8 +260,8 @@
   },
 
   {
-    "name": "Al-Quran AlKarim",
-    "url": "http://baskhd.ddns.net:40/live/QURANHDTV/chunklist.m3u8"
+    "name": "Ch4teen Quran",
+    "url": "https://1a-1791.com/live/v0xi25uh/slot-63/lcqg-dk1b_1080p/chunklist_DVR.m3u8"
   },
 
   {
@@ -345,7 +315,6 @@
     "url": "https://live.paltodaytv.com/paltv/live/chunklist.m3u8"
   },
 
-  { "name": "Ajyal", "url": "https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/XCxGconNpCpSBXokds3NzlxZOqAijO-U9FBgTId_nYRUunp_xWEHzrBm6WCDjxaW98wXDOvwouQKk2g-rr2y3l6002G6DlTjyv_7V8VmBTNgL9FfdxTyGNhtIMVLj7lKL6lzbuLmLVKL4QfY2tVE8zdGtAoS7JvRJb8FqajN7FvsW8oLgDGGaxcpVd5wEi8hG271r3qMizpX3CI9CPMcgQ/hls/index.m3u8" },
 
   {
     "name": "Mix Hollywood",
@@ -542,23 +511,9 @@
 
   {
     "name": "TV 2",
-    "url": "http://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeLgZXqA3RCoynpVrVZz0Naw/m3u8"
+    "url": "https://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeLgZXqA3RCoynpVrVZz0Naw/m3u8"
   },
 
-  {
-    "name": "Bein 1 sport",
-    "url": "https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/acZokI9K0pd__Pj1kMVhM0kmdkH4KPPpSUZvIvg7yVXxWizMQ-MIOkI3h-RfgrkrUvt-QMloFqRRQb_gft6IgI4HKFyBitEnWwWW2VJd9v9gjYEah5RoYGsAnxTDyjkLx1TuMQKCxGr3OH-27tYbxGbc3GrL0xUndbVlv5Y8V2Tzi6a5S2eHP-8W2LM43Q7M9YgxZl13PSuTH1TxlIcVjw/hls/index.m3u8"
-  },
-
-  {
-    "name": "Bein 2 sport",
-    "url": "https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/-wgW1vkCM5DaIwuvoGRAKmwlJDNGK-YPgALoPUyTYNDwyi06CJqL_T1t3c93sz4MUa1va0iLibj7PE6FCb-ddxLkMyuKFpAWwFioUuuGCbUna6qr6GXi4dol21jUPoAeTJP0p7plTpC8VuhhwiERNqRASxRKsmSUMJG8iWbH9dC12HS3Y_g66BYXWZFjOsal2bLsj5AxxQEhymjjYmVlvQ/hls/index.m3u8"
-  },
-
-  {
-    "name": "Bein 3 sport",
-    "url": "https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/ha2FbfEmVqjyYbcWCsaVYbMQ8hFM2crCAQn8ThHkr41vPqOri55vaD5dFqKqX1HH_rIjLn8OdwnQD_7qspoT7HYVhiw0q4iW1CeAFccmqDzzvPhIHtnXrgYI0CBEdSle5fk4KAc6VGk1nfqCCBg1_uv9E5zVE_n193S02Qu59g8TAVP2PxLud9oKsN2F4v2OmVVdnCCVXbd5w84ZeY9MNg/hls/index.m3u8"
-  },
 
   {
     "name": "Bein Sport",
