@@ -82,8 +82,13 @@
   },
 
   {
+    "name": "Al Jazeera Doc",
+    "url": "https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/GPTF8lh7ovRL1E10P2takYCzJ_nih1Ki7RqtZbGfEBXDyCwjTORTAlpCxImEmUiGvBXRv-6kGYmtwQTHUICFqVR7KQjuBE_aP0uIYUDrc4e_mxc8rPAPDj6GtRRMU7R1P25SFLgwnclEs3E0m2mmD5ylzRuw_P21QPFi_jJeaVwPFdIEKLwcR4izt8QUw6o3VyuURvYpGem7nZ9GatCp0Q/hls/index.m3u8"
+  },
+
+  {
     "name": "Al sharq discovery",
-    "url": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_source/chunks_dvr.m3u8"
+    "url": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8"
   },
 
   {
@@ -101,10 +106,6 @@
     "url": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8"
   },
 
-  {
-    "name": "MBC-2",
-    "url": "http://lunar.pm:8080/live/LynnB23/34yfqEW7mHvY/132149.m3u8"
-  },
 
   {
     "name": "MBC 3",
@@ -174,8 +175,8 @@
   },
 
   {
-    "name": "OTV",
-    "url": "https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8"
+    "name": "Al Jadeed",
+    "url": "https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/y5BGlX_-yKqeRVQhbrjTnGarV4-LDwbHW-cY079gSDD1nLIH4aumVtLVbpxOSmNw4iO1iUGu6mhQzklX0Qu4Otq2sDK2fk6yRJe2qHku7EjvjNybsGMZLMfXdZfqv1FNRKcfPk-hBH4fQFSwvSGBM-1qzVx9rMt9q6ivdrvouQYawaY5mtVXJBiLhZx_uyqOJwcb0-4r0E4iGZ5swMATaA/hls/index.m3u8"
   },
 
   {
@@ -190,18 +191,19 @@
 
   {
     "name": "LBC",
-    "url": "https://tgn.bozztv.com/gin-36bay3/ga-lbctv/tracks-v1a1/mono.ts.m3u8?nimblesessionid=1560758955&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDExOjU4OjUyIEFNJmhhc2hfdmFsdWU9TjVJOUFVM2xQNnZyRzRLczhsb1ladz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTE5"
+    "url": "https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/GTAlVC-yKiAkHlYd5rjXgYMKwwz5njE5w3iuH7QWgk7l-OwjYeqnWgF1FBIUxNhmnMCiq3vdvhGvjuPObHKTHcJqjTddk-mjvTXZ0KN4r60NizJnsUEUr6RDcvZu7x4HmxzaiO7F1yWtzBLPFHvLW6ZfugD5P9lUyHqGxC4gU_hzvlGMZNHlyaHpzIc5zc1tsOUZaQpzJSidTvVAqdcjlg/hls/index.m3u8"
   },
 
-  {
-    "name": "Abu Dabi",
-    "url": "https://tgn.bozztv.com/gin-36bay4/gin-abudhabitv/tracks-v1a1/mono.ts.m3u8?nimblesessionid=1560765584&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDEyOjA0OjM3IFBNJmhhc2hfdmFsdWU9c0d5NGwvdFk2TlR3c2wzRVRTSjV0QT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI1"
-  },
   {
     "name": "Al arabi 2",
     "url": "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/alaraby2publish/alaraby2_source/chunks.m3u8"
   },
 
+  {
+    "name": "Jeem Kids",
+    "url": "https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/-E_Eca5mVIn0yzyBASN1RSeNRkbD87_F51MHXLd7i4MvKlvM3X2TUFk_pL8X5KYHLrvjc2daDv77Noo-qrmeemNRHIjTaHsBxs2Q86-G-fxGtrFvKV1jdGFVT0xzMRITavdMQuSAK8JT1vN5-dC5kPUWRP8PMWdQfloDHA-Z3Os6D6-r57hEI-XLMrKo8-YTyi09QbC2Q1gfJRuoud12_g/hls/index.m3u8"
+  },
+  
   {
     "name": "Roya kids",
     "url": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8"
@@ -233,8 +235,8 @@
   },
 
   {
-    "name": "Taha Kids",
-    "url": "https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8"
+    "name": "Cartoon Network",
+    "url": "https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/FHvlwODhxVdIZEus9t1GGSbpiC0ns2uf3W0KKsSWOP7uAGFVyjkAyTY5ux_hb6NEe1t597Xz0za5228RbwsuA-im7TYz6L1XrT2v_3WjpciV9lkWV3Cnutv1krPVaTmJ8cCbYI8hgw6b6qn6sLIxqh4GW4fPMVeXkOBgbBxdvaPZos8e58kKR13BmnWLGD8mIRKk2qNEq2qbrUVzukPPzA/hls/index.m3u8"
   },
 
   {
@@ -253,8 +255,8 @@
   },
 
   {
-    "name": "Spacetoon",
-    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8"
+    "name": "Marah kids",
+    "url": "https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/Sh9QSNeLO3HAVw-beaUObBcBaAhtwLc1R92Y0z5ihNmelrIRTnaF5nbjrBhfB5SGz4ITt2Gy_Q2SLEUm-For24oisweLpmOwilXQyCjO5Ze_8MQFkCRXMaQYv6uWR4gkVMV9c7LbfkmW8mKWltPjs3PGSsQADFDoNTpnjfMw3c-VtZrj1ezcZFU7RmwE7yxakiPIWXmBk-98c9fXF2E5pA/hls/index.m3u8"
   },
 
   {
@@ -524,17 +526,17 @@
 
   {
     "name": "Bein 1 sport",
-    "url": "http://lunar.pm:8080/live/LynnB23/34yfqEW7mHvY/132379.m3u8"
+    "url": "https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/acZokI9K0pd__Pj1kMVhM0kmdkH4KPPpSUZvIvg7yVXxWizMQ-MIOkI3h-RfgrkrUvt-QMloFqRRQb_gft6IgI4HKFyBitEnWwWW2VJd9v9gjYEah5RoYGsAnxTDyjkLx1TuMQKCxGr3OH-27tYbxGbc3GrL0xUndbVlv5Y8V2Tzi6a5S2eHP-8W2LM43Q7M9YgxZl13PSuTH1TxlIcVjw/hls/index.m3u8"
   },
 
   {
     "name": "Bein 2 sport",
-    "url": "http://lunar.pm:8080/live/LynnB23/34yfqEW7mHvY/132377.m3u8"
+    "url": "https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/-wgW1vkCM5DaIwuvoGRAKmwlJDNGK-YPgALoPUyTYNDwyi06CJqL_T1t3c93sz4MUa1va0iLibj7PE6FCb-ddxLkMyuKFpAWwFioUuuGCbUna6qr6GXi4dol21jUPoAeTJP0p7plTpC8VuhhwiERNqRASxRKsmSUMJG8iWbH9dC12HS3Y_g66BYXWZFjOsal2bLsj5AxxQEhymjjYmVlvQ/hls/index.m3u8"
   },
 
   {
-    "name": "Fairuz",
-    "url": "https://shd-gcp-live.lg.mncdn.com/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8"
+    "name": "Bein 3 sport",
+    "url": "https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/ha2FbfEmVqjyYbcWCsaVYbMQ8hFM2crCAQn8ThHkr41vPqOri55vaD5dFqKqX1HH_rIjLn8OdwnQD_7qspoT7HYVhiw0q4iW1CeAFccmqDzzvPhIHtnXrgYI0CBEdSle5fk4KAc6VGk1nfqCCBg1_uv9E5zVE_n193S02Qu59g8TAVP2PxLud9oKsN2F4v2OmVVdnCCVXbd5w84ZeY9MNg/hls/index.m3u8"
   },
 
   {
