@@ -174,6 +174,7 @@
     "url": "https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8"
   },
 
+
   {
     "name": "MTV",
     "url": "https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8"
@@ -240,7 +241,7 @@
   },
 
   {
-    "name": "Quran Al Bahrain",
+    "name": "Quran Al Bah rain",
     "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w1937581584_b2487000.m3u8"
   },
 
@@ -514,6 +515,28 @@
     "url": "https://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeLgZXqA3RCoynpVrVZz0Naw/m3u8"
   },
 
+  {
+    "name": "Tennis Sport",
+    "url": "https://tx4.nexgen.bz:4000/TENNIS/index.m3u8"
+  },
+
+  {
+    "name": "Golf Sport",
+    "url": "https://tx2.nexgen.bz:4000/GOLF/index.m3u8"
+  },
+  {
+    "name": "Fox Sport 1",
+    "url": "https://tx3.nexgen.bz:4000/FOX_SPORTS1/index.m3u8"
+  },
+
+  {
+    "name": "Fox Sport 2",
+    "url": "https://tx3.nexgen.bz:4000/FOX_SPORTS2/index.m3u8"
+  },
+  {
+    "name": "Bein-1 Sport",
+    "url": "https://tx3.nexgen.bz:4000/BEIN/index.m3u8"
+  },
 
   {
     "name": "Bein Sport",
