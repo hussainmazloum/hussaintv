@@ -20,6 +20,11 @@
     "name": "Al jazeera",
     "url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
   },
+  
+  {
+    "name": "Al Jazeera 2",
+    "url": "https://live-hls-web-aja2-gcp.thehlive.com/AJA2/01.m3u8"
+  },
 
   {
     "name": "Al jazeera direct",
@@ -79,11 +84,6 @@
   {
     "name": "IFilm arabic",
     "url": "https://live.presstv.ir/hls/ifilmar_4_482/index.m3u8"
-  },
-
-  {
-    "name": "Al Jazeera Doc",
-    "url": "https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/GPTF8lh7ovRL1E10P2takYCzJ_nih1Ki7RqtZbGfEBXDyCwjTORTAlpCxImEmUiGvBXRv-6kGYmtwQTHUICFqVR7KQjuBE_aP0uIYUDrc4e_mxc8rPAPDj6GtRRMU7R1P25SFLgwnclEs3E0m2mmD5ylzRuw_P21QPFi_jJeaVwPFdIEKLwcR4izt8QUw6o3VyuURvYpGem7nZ9GatCp0Q/hls/index.m3u8"
   },
 
   {
@@ -231,6 +231,11 @@
   },
 
   {
+    "name": "Cartoon Network",
+    "url": "http://181.233.127.86/live/play/ZUhKMFIzZzFPSE50ZDFwT1EweEVhbloyWVdKTE9IQldPR3hQYTNCbGFGWTFUR3gzWVdSa1dFTkpORDA9/2927"
+  },
+
+  {
     "name": "Cartoon Calssic",
     "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8"
   },
@@ -253,11 +258,6 @@
   {
     "name": "Sharjaht Quran Radio",
     "url": "https://live.kwikmotion.com/smcquranlive/quranradiolive/chunks.m3u8"
-  },
-
-  {
-    "name": "Mekka Quran",
-    "url": "https://cdn21lhr.tamashaweb.com:8087/jazzauth/Saudimakkah(nw)-abr/live/vsat-150H/chunks.m3u8?nimblesessionid=12474726&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMC8yMDI2IDE6NTY6MDcgUE0maGFzaF92YWx1ZT0rV3Bwc2JkR1lOYmZlUnNpR1RDMXZ3PT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Saudimakkah(nw)-abr/playlist.m3u8"
   },
 
   {
@@ -288,6 +288,11 @@
   {
     "name": "Al sharqia news",
     "url": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist_w122808259.m3u8"
+  },
+
+  {
+    "name": "Afaq",
+    "url": "https://s1.ettehadlive.com/live/1/chunklist_w1362192764.m3u8?v=523051579"
   },
 
   {
@@ -338,8 +343,8 @@
   },
 
   {
-    "name": "MBC Movies Thriller",
-    "url": "https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_1.m3u8"
+    "name": "2M Marroco",
+    "url": "http://148.224.25.52/live/play/TW1aUFptTlNaRWRFZEdwM1lYQjZPVUpGTlRSdGJ6WjJPSEl6VlRkSk5sZDNlbXRWUW1wbFJYTkxkejA9/1966585"
   },
 
   {
@@ -513,6 +518,20 @@
   {
     "name": "TV 2",
     "url": "https://fomo.re/play/rtK-w3ixnEErMLG2SOXbzEB7frLPi_-3LeQsm3JBoeLgZXqA3RCoynpVrVZz0Naw/m3u8"
+  },
+
+  {
+    "name": "Sky sport league",
+    "url": "http://rocketfx.uk:8089/live/Toeintheknow/MupjnTXZVWpU/9b5dda49-386b-454b-9dc2-10ed236bb34d.m3u"
+  },
+  {
+    "name": "Sky premier league",
+    "url": "http://rocketfx.uk:8089/live/Toeintheknow/MupjnTXZVWpU/fd6b7c53-6ba7-47b6-9b7f-6c3f3c080ade.m3u"
+  },
+
+  {
+    "name": "Sky Event Sport",
+    "url": "http://rocketfx.uk:8089/live/Toeintheknow/MupjnTXZVWpU/78aa5d66-0b3d-495d-a233-27174cac9f2f.m3u"
   },
 
   {
