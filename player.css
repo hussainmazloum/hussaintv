@@ -80,15 +80,12 @@ h1 {
   overflow-x: hidden;
   scrollbar-color: rgb(153, 211, 250) #1b0679;
   margin: 0px 10px;
-
   padding: 10px;
-  /*  box-sizing: border-box;
- */
   box-shadow:
     0 4px 8px 0 rgba(0, 0, 0, 0.5),
     0 6px 20px 0 rgba(0, 0, 0, 0.79);
-  /*   border: 1px solid red;
- */
+  border-bottom: 10px solid goldenrod;
+ 
 }
 .channel {
   padding: 12px;
@@ -124,8 +121,8 @@ h1 {
   width: 80%;
   color: rgb(255, 255, 255);
   height: 50px;
-  /*      border: 1px solid red;
- */
+  /* border: 1px solid red; */
+ 
 }
 
 #clock {
@@ -199,13 +196,15 @@ video {
 
   .top {
     width: 100%;
+    padding: 0px 10px;
   }
+
   h2 {
     padding-right: 10px;
   }
-  #clock {
+   #clock {
     padding: 0 10px;
-  }
+  } 
 }
 
 /* -------------- media query 520 -----------------------*/
@@ -247,11 +246,13 @@ video {
 
   .top {
     width: 100%;
+    padding: 0px 10px;
+
   }
   h2 {
     padding: 0px 10px;
   }
   #clock {
     padding: 0 10px;
-  }
+  } 
 }
