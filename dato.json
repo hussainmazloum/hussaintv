@@ -221,8 +221,8 @@
   },
 
   {
-    "name": "ABC Kids",
-    "url": "https://c.mjh.nz/abc-kids.m3u8"
+    "name": "Happy Kids",
+    "url": "https://dil9xdvretp0f.cloudfront.net/index.m3u8"
   },
 
   {
@@ -231,8 +231,8 @@
   },
 
   {
-    "name": "Cartoon Network",
-    "url": "http://181.233.127.86/live/play/ZUhKMFIzZzFPSE50ZDFwT1EweEVhbloyWVdKTE9IQldPR3hQYTNCbGFGWTFUR3gzWVdSa1dFTkpORDA9/2927"
+    "name": "Super_Simple_Songs",
+    "url": "https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8"
   },
 
   {
@@ -276,6 +276,11 @@
   },
 
   {
+    "name": "Al Maaref TV",
+    "url": "https://amsterdam.zeuscdn724.com/CH-AL-MA/tracks-v4a1/mono.ts.m3u8"
+  },
+
+  {
     "name": "Al gadeer",
     "url": "https://sd343444.vodu.store:3356/live/Alghadeer/tracks-v1a1/mono.m3u8"
   },
@@ -311,18 +316,6 @@
   },
 
   {
-    "name": "Al Maaref TV",
-    "url": "https://amsterdam.zeuscdn724.com/CH-AL-MA/tracks-v4a1/mono.ts.m3u8"
-  },
-
-
-  {
-    "name": "Phalastine Today",
-    "url": "https://live.paltodaytv.com/paltv/live/chunklist.m3u8"
-  },
-
-
-  {
     "name": "Mix Hollywood",
     "url": "https://ml-pull-hwc.myco.io/MixTV/hls/MixTV_H264-720p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1"
   },
@@ -343,8 +336,13 @@
   },
 
   {
-    "name": "2M Marroco",
-    "url": "http://148.224.25.52/live/play/TW1aUFptTlNaRWRFZEdwM1lYQjZPVUpGTlRSdGJ6WjJPSEl6VlRkSk5sZDNlbXRWUW1wbFJYTkxkejA9/1966585"
+    "name": "Fairuz",
+    "url": "https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8"
+  },
+
+  {
+    "name": "MBC Aflam",
+    "url": "https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8"
   },
 
   {
