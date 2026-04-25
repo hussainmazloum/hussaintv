@@ -87,6 +87,11 @@
   },
 
   {
+    "name": "Al Sharq",
+    "url": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8"
+  },
+
+  {
     "name": "Al sharq discovery",
     "url": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8"
   },
@@ -192,11 +197,6 @@
   {
     "name": "Al arabi 2",
     "url": "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/alaraby2publish/alaraby2_source/chunks.m3u8"
-  },
-
-   {
-    "name": "Lana TV",
-    "url": "https://cdn.streamlane.tv/hls/ltv/1_0/index.m3u8?tkn=3168282027"
   },
 
   {
@@ -310,6 +310,12 @@
   },
 
   {
+    "name": "Dijlah",
+    "url": "https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8"
+  },
+
+
+  {
     "name": "Al Jawadain TV",
     "url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8"
   },
@@ -340,18 +346,24 @@
   },
 
   {
-    "name": "MBC Movies Action",
-    "url": "https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8"
+    "name": "Lana TV",
+    "url": "https://cdn.streamlane.tv/hls/ltv/1_0/index.m3u8?tkn=3168282027"
   },
 
   {
-    "name": "Fairuz",
-    "url": "https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8"
+    "name": "Syria TV",
+    "url": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_source/chunks_dvr.m3u8"
+    
   },
 
   {
-    "name": "MBC Aflam",
-    "url": "https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8"
+    "name": "Syria tv 2",
+    "url": "https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8"
+  },
+
+  {
+    "name": "Al Najah",
+    "url": "https://streaming.najah.edu:8443/hls/AlNajah.m3u8"
   },
 
   {
@@ -518,7 +530,7 @@
 
   {
     "name": "Tennis Sport",
-    "url": "https://tx4.nexgen.bz:4000/TENNIS/index.m3u8"
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8"
   },
 
   {
