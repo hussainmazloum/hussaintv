@@ -194,6 +194,11 @@
     "url": "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/alaraby2publish/alaraby2_source/chunks.m3u8"
   },
 
+   {
+    "name": "Lana TV",
+    "url": "https://cdn.streamlane.tv/hls/ltv/1_0/index.m3u8?tkn=3168282027"
+  },
+
   {
     "name": "Roya kids",
     "url": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8"
