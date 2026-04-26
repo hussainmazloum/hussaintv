@@ -112,6 +112,11 @@
   },
 
   {
+    "name": "MBC 2",
+    "url": "http://livetv2.ddns.me:8088/live/Bank05/12345678/753.m3u8"
+  },
+
+  {
     "name": "MBC 3",
     "url": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8"
   },
@@ -167,6 +172,10 @@
     "name": "MBC Drama egypt",
     "url": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8"
   },
+  {
+    "name": "MBC Action",
+    "url": "http://livetv2.ddns.me:8088/live/Bank05/12345678/746.m3u8"
+  },
 
   {
     "name": "Tele liban",
@@ -176,10 +185,6 @@
   {
     "name": "Future",
     "url": "https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8"
-  },
-{
-    "name": "MBC2",
-    "url": "http://livetv2.ddns.me:8088/live/Bank05/12345678/748.m3u8"
   },
 
   {
