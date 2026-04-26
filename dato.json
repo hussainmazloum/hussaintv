@@ -111,6 +111,10 @@
     "url": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8"
   },
 
+  {
+    "name": "MBC 2",
+    "url": "http://154.58.202.18:8080/mbc2/index.m3u8"
+  },
 
   {
     "name": "MBC 3",
